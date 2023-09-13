@@ -1,0 +1,8 @@
+Inheritance = The process where a subclass acquires the attributes and methods of superclass.
+
+Encapsulation = The attributes of the class is private and can only b accessed through methods. (getter and setter)
+
+Polymorphism = Is having a method in a subclass that overrides/overloads a method in superclass
+
+Abstraction = Using an abstract class that cant instantiate.
+	enforce policy
